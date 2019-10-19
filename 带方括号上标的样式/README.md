@@ -1,7 +1,7 @@
 本样式转自“whyes 的博客”
 
 共3个style，这里下载。分别说明如下：
-### dh_Chinese.ens
+### dh shangbiao_Chinese.ens
 用于中文论文的参考文献管理（主要特征是序列号加上了方括号，且为上标）。从Chinese Std GBT7714 (numeric)修改而来，主要修改之处：去掉字体，作者姓名改成了正确的大小写方式，同时作者姓名由“Smith A B”改成了“Smith AB”形式（去掉了A和B之间的空格）。
 
 ### dh_all author.ens
